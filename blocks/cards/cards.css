@@ -29,3 +29,9 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+.cards .more{
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: .0216em;
+  line-height: 150%;
+}
