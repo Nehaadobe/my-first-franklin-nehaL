@@ -1,0 +1,116 @@
+{
+    "total": 26,
+    "offset": 0,
+    "limit": 26,
+    "data": [
+    {
+    "Key": "Countdown",
+    "Text": "Mon Oct 17 2022 8:00:00 GMT-0400 (Eastern Daylight Time)"
+    },
+    {
+        "Key": "More",
+        "Text": "Click here for more"
+        },
+    {
+    "Key": "Event Offset",
+    "Text": "-4"
+    },
+    {
+    "Key": "Current Year",
+    "Text": "2022"
+    },
+    {
+    "Key": "Dates",
+    "Text": "Oct 17-23, 2022"
+    },
+    {
+    "Key": "City",
+    "Text": "Ridgeland"
+    },
+    {
+    "Key": "Course",
+    "Text": "CONGAREE GOLF CLUB"
+    },
+    {
+    "Key": "Tour Code",
+    "Text": "r"
+    },
+    {
+    "Key": "Tour Name",
+    "Text": "PGA TOUR"
+    },
+    {
+    "Key": "Tournament ID",
+    "Text": "521"
+    },
+    {
+    "Key": "Tournament Name",
+    "Text": "CONGAREE GOLF CLUB"
+    },
+    {
+    "Key": "Rolex Id",
+    "Text": "SModezA"
+    },
+    {
+    "Key": "News Tags",
+    "Text": "PGATOUR:Tournaments/2018/r521+PGATOUR:Tournaments/2019/r521+PGATOUR:Tournaments/2020/r521+PGATOUR:Tournaments/2021/r521+PGATOUR:Tournaments/2022/r521+PGATOUR:Tournaments/2023/r521"
+    },
+    {
+    "Key": "Ads Keyword",
+    "Text": "players"
+    },
+    {
+    "Key": "Ads Path",
+    "Text": "pgatour-dOyvDOhyTp/players"
+    },
+    {
+    "Key": "Ads Network",
+    "Text": "9517547"
+    },
+    {
+    "Key": "Ads S1",
+    "Text": "pgatour"
+    },
+    {
+    "Key": "Ads S2",
+    "Text": "tournaments"
+    },
+    {
+    "Key": "Ads S3",
+    "Text": "the-cj-cup"
+    },
+    {
+    "Key": "Hostname",
+    "Text": "cjcupsouthcarolina.com"
+    },
+    {
+    "Key": "Pagename",
+    "Text": "the-cj-cup"
+    },
+    {
+    "Key": "Onetrust Id",
+    "Text": "e95df66c-c279-4be4-97f7-27f8121c41f2"
+    },
+    {
+    "Key": "Login Prompt",
+    "Text": "Did you know you can save your preferences across all your digital devices and platforms simply by creating a profile? Would you like to get started?"
+    },
+    {
+    "Key": "Login Yes",
+    "Text": "Yes, I'd like to register/log in"
+    },
+    {
+    "Key": "Login No",
+    "Text": "Not right now"
+    },
+    {
+    "Key": "Graphql API Endpoint",
+    "Text": "https://orchestrator.pgatour.com/graphql"
+    },
+    {
+    "Key": "Graphql API Key",
+    "Text": "da2-gsrx5bibzbb4njvhl7t37wqyl4"
+    }
+    ],
+    ":type": "sheet"
+    }

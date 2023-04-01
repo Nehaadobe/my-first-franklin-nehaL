@@ -197,7 +197,7 @@ export async function fetchPlaceholders(prefix = 'default') {
   if (!loaded) {
     window.placeholders[`${prefix}-loaded`] = new Promise((resolve, reject) => {
       try {
-        fetch(`${prefix === 'default' ? '' : prefix}/placeholders.json`)
+        fetch(`/placeholders.json`)
           .then((resp) => resp.json())
           .then((json) => {
             const placeholders = {};
